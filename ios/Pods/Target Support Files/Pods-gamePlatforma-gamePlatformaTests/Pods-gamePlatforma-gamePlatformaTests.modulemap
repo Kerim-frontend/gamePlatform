@@ -1,0 +1,6 @@
+module Pods_gamePlatforma_gamePlatformaTests {
+  umbrella header "Pods-gamePlatforma-gamePlatformaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

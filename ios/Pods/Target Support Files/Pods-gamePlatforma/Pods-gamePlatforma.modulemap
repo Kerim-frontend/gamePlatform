@@ -1,0 +1,6 @@
+module Pods_gamePlatforma {
+  umbrella header "Pods-gamePlatforma-umbrella.h"
+
+  export *
+  module * { export * }
+}
